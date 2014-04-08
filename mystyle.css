@@ -1,0 +1,27 @@
+#erepToolContent{
+	background-color: #5F9F9F;
+	border: 1px solid black;
+	margin-top: 10px;
+	width: 760px;
+	padding: 0;
+	float: right;
+	display: block;
+}
+
+#btnStop,#btnStart{
+	margin: 5px;
+	padding: 5px;
+}
+
+#timeInterval{
+	border: 1px solid black;
+	height: 25px;
+	text-align: center;
+	margin-left: 5px;
+}
+
+.plusMinusBtn{
+	padding: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+}

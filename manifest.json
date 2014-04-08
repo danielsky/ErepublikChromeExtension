@@ -1,0 +1,13 @@
+{
+"name":"Erepublik Tools",
+"description":"Erep button",
+"version":"1",
+"manifest_version":2,
+"content_scripts": [
+    {
+      "matches": ["http://www.erepublik.com/en/military/battlefield/*", "http://www.erepublik.com/pl/military/battlefield/*"],
+      "js": ["myscript.js","func.js"],
+	  "css": ["mystyle.css"]
+    }
+  ]
+}
